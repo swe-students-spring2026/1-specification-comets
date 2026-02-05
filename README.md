@@ -8,6 +8,23 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
+### Robert (Patient):
+
+Goals/needs:
+
+- I want to quickly find freelance nurses who can travel to my location and provide regular, consistent care at a fixed time.
+- I want to be able to find nurses quickly if I need urgent care that doesn’t warrant a hospital visit yet.
+- I want to choose a nurse who suits my needs, price range, and preferences.
+- I want to be able to upload any relevant medical history and share any requests through the app, which should help link me to a suitable nurse who can help with my medical needs.
+- I want to link my payment details so that my payments, tips, and other transactions are automatically done for me through the app.
+
+Problems/Frustrations:
+
+- I find it difficult to find freelance nurses through sketchy websites, word of mouth, or online forums. These tend to be unreliable and sometimes even a scam.
+- It is hard to individually vet the validity of a nursing license or evaluate a freelance nurse’s ability without reviews or any other evaluation metric.
+- If I cannot vet a nurse’s legitimacy, I may become paranoid about sharing any personal, financial, or medical information, especially if I have yet to meet the nurse.
+- It might be difficult for nurses to provide the relevant healthcare and medicine unless they have my medical background logged somewhere. Thus, it would be incredibly helpful for both parties if they could view my most recently logged medical information prior to a sudden appointment.
+
 ### Linda (Family Caregiver):
 
 Goals/needs:
