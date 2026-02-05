@@ -9,40 +9,40 @@ A little exercise to get started with the specification phase of the software de
 ## Stakeholders
 
 ### Linda (Family Caregiver):
-    Goals/needs:
-        - I want to find a reliable nurse who can visit my parent at a fixed, recurring time so that their routine stays stable and I don’t have to reorganize my work schedule constantly.
-        - I want to be able to monitor visits remotely and receive notifications when the nurse arrives, leaves, or reports something important so that I feel reassured even when I’m not physically there.
-        - I want to clearly see each nurse’s license verification, experience with elderly patients, and reviews so that I can confidently choose someone qualified.
-        - I want transparent pricing and a clear cancellation policy before booking so that I can budget long-term care costs without unexpected fees.
-    Problems/Frustrations:
-        - It took me weeks to find a nurse through word of mouth in NYC, and most online listings were outdated or unresponsive.
-        - I often feel anxious about whether a nurse will show up on time or cancel last minute, especially when I cannot leave work to step in.
-        - Coordinating schedules, payments, and communication through calls and texts feels disorganized and stressful.
-        - I worry about scams or unverified caregivers when using random websites or forums, especially when it involves my parent’s safety and medical needs.
+Goals/needs:
+- I want to find a reliable nurse who can visit my parent at a fixed, recurring time so that their routine stays stable and I don’t have to reorganize my work schedule constantly.
+- I want to be able to monitor visits remotely and receive notifications when the nurse arrives, leaves, or reports something important so that I feel reassured even when I’m not physically there.
+- I want to clearly see each nurse’s license verification, experience with elderly patients, and reviews so that I can confidently choose someone qualified.
+- I want transparent pricing and a clear cancellation policy before booking so that I can budget long-term care costs without unexpected fees.
+Problems/Frustrations:
+- It took me weeks to find a nurse through word of mouth in NYC, and most online listings were outdated or unresponsive.
+- I often feel anxious about whether a nurse will show up on time or cancel last minute, especially when I cannot leave work to step in.
+- Coordinating schedules, payments, and communication through calls and texts feels disorganized and stressful.
+- I worry about scams or unverified caregivers when using random websites or forums, especially when it involves my parent’s safety and medical needs.
 
 ### Megan (Administrator):
-    Goals/needs:
-        - I want to verify nurse licenses and credentials before they are approved on the platform so that patients can trust that every listed nurse is legitimate and qualified.
-        - I want to monitor user feedback, complaints, and ratings so that I can quickly identify unsafe behavior or recurring service issues.
-        - I want to have access to activity logs, such as bookings, cancellations, disputes, and payments, so that I can investigate conflicts fairly and transparently.
-        - I want tools to suspend or remove nurses or patients who violate platform policies so that the platform maintains safety and professional standards.
-    Problems/Frustrations:
-        - If verification is done manually through emails and spreadsheets, it becomes slow and error-prone, especially as the platform grows.
-        - It is difficult to detect fake licenses or fraudulent users without a centralized verification system.
-        - Negative reviews or disputes can escalate quickly if there is no structured process to investigate and respond.
-        - Without clear data dashboards, it is hard to identify patterns such as repeated cancellations, suspicious activity, or low-rated providers.
+Goals/needs:
+- I want to verify nurse licenses and credentials before they are approved on the platform so that patients can trust that every listed nurse is legitimate and qualified.
+- I want to monitor user feedback, complaints, and ratings so that I can quickly identify unsafe behavior or recurring service issues.
+- I want to have access to activity logs, such as bookings, cancellations, disputes, and payments, so that I can investigate conflicts fairly and transparently.
+- I want tools to suspend or remove nurses or patients who violate platform policies so that the platform maintains safety and professional standards.
+Problems/Frustrations:
+- If verification is done manually through emails and spreadsheets, it becomes slow and error-prone, especially as the platform grows.
+- It is difficult to detect fake licenses or fraudulent users without a centralized verification system.
+- Negative reviews or disputes can escalate quickly if there is no structured process to investigate and respond.
+- Without clear data dashboards, it is hard to identify patterns such as repeated cancellations, suspicious activity, or low-rated providers.
 
 ### Dr. Martin (NYC Health Commissioner):
-    Goals/needs:
-        - I want platforms that connect nurses with elderly residents to comply with state licensing and healthcare regulations so that patient safety is not compromised.
-        - I want access to anonymized usage statistics from the platform so that the city can identify areas with high demand and limited nurse availability.
-        - I want mechanisms in place to prevent fraud, impersonation, or unsafe medical practices so that vulnerable residents are protected.
-        - I want clear accountability structures, like audit logs and complaint tracking, so that regulatory oversight is possible if needed.
-    Problems/Frustrations:
-        - Many digital health platforms operate in gray areas without clear regulation, which creates legal and ethical risks.
-        - Much of freelance caregiving happens privately without centralized oversight, making it difficult to monitor quality and safety standards.
-        - Unverified providers may endanger elderly residents if licensing and credential checks are not enforced properly.
-        - When complaints arise, platforms often lack structured documentation or traceability, making investigations hard.
+Goals/needs:
+- I want platforms that connect nurses with elderly residents to comply with state licensing and healthcare regulations so that patient safety is not compromised.
+- I want access to anonymized usage statistics from the platform so that the city can identify areas with high demand and limited nurse availability.
+- I want mechanisms in place to prevent fraud, impersonation, or unsafe medical practices so that vulnerable residents are protected.
+- I want clear accountability structures, like audit logs and complaint tracking, so that regulatory oversight is possible if needed.
+Problems/Frustrations:
+- Many digital health platforms operate in gray areas without clear regulation, which creates legal and ethical risks.
+- Much of freelance caregiving happens privately without centralized oversight, making it difficult to monitor quality and safety standards.
+- Unverified providers may endanger elderly residents if licensing and credential checks are not enforced properly.
+- When complaints arise, platforms often lack structured documentation or traceability, making investigations hard.
 
 
 
