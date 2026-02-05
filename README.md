@@ -79,16 +79,23 @@ To create a trusted mobile platform that connects verified freelance nurses with
 - As a family caregiver, I want to book recurring visits, so I can worry less and have my family members receive stable care on a routine basis.
 - As a family caregiver, I want to see transparent pricing and a cancellation policy before booking, so I can be prepared for any unexpected charges.
 - As a family caregiver, I want to receive notifications when a nurse accepts the order, is en route, arrives, or is running late, so I can stay informed about any situation.
+- As a family caregiver, I want to manage multiple patient profiles in one account, so I can coordinate care for more than one family member easily.
+- As a family caregiver, I want to upload medical notes and care instructions for the nurse to review, so I can ensure the nurse follows the correct routine.
+- As a family caregiver, I want to share visit details with other approved family members, so everyone stays aligned on schedules and responsibilities.
 
 ### Freelance Nurse
 
 - As a freelance nurse, I want to submit my license and identity for verification, so I can be trusted with proof of qualifications, and I can get straight to work.
 - As a freelance nurse, I want to set my availability and service area, so I can only receive requests when and where I am free.
 - As a freelance nurse, I want to message the patient along with caregivers of any emergency on the road, absence, or any missing information, so I can contact the clients seamlessly and reduce misunderstandings.
+- As a freelance nurse, I want to accept or decline requests within a time limit, so patients get quick confirmations and I can control my workload.
+- As a freelance nurse, I want to view a clear summary of care needs before accepting a job, so I can confirm I’m qualified and prepared for the visit.
+- As a freelance nurse, I want to log visit completion notes and tasks performed, so I can document care and support continuity for future visits.
 
 ### Platform Administrator
 
 - As a platform administrator, I want to flag suspicious accounts or inconsistent credentials, so I can protect patients and maintain trust in the marketplace.
+- As a platform administrator, I want to easily view user statistics, overall nurse availability, and any other high-level data to monitor app usage and performance.
 
 ## Activity Diagrams
 
