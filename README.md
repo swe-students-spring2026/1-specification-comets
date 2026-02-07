@@ -6,6 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 - Kara Jin - [Kara's Github](https://github.com/cynikjinchen)
 - Ethan Tan - [Ethan's Github](https://github.com/ethantyr)
+- Sheldon Xie - [Sheldon's Github](https://github.com/FilthyS)
 
 ## Stakeholders
 
