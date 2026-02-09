@@ -118,7 +118,7 @@ To create a trusted mobile platform that connects verified freelance nurses with
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![activity diagram](./comets-app_map.png)
 
 ## Clickable Prototype
 
