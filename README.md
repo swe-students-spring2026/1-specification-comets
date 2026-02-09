@@ -7,6 +7,7 @@ A little exercise to get started with the specification phase of the software de
 - Kara Jin - [Kara's Github](https://github.com/cynikjinchen)
 - Ethan Tan - [Ethan's Github](https://github.com/ethantyr)
 - Sheldon Xie - [Sheldon's Github](https://github.com/FilthyS)
+- Grace Johnson - [Grace's Github](https://github.com/grace350)
 
 ## Stakeholders
 
@@ -122,4 +123,4 @@ To create a trusted mobile platform that connects verified freelance nurses with
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[clickable prototype](https://www.figma.com/proto/xAUUImn0WVWn0U7f8BbxP0/comets-wireframes?node-id=1-3&p=f&t=yqeVQJc9HkWrVL39-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3)
