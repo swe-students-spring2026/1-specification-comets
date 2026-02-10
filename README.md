@@ -109,7 +109,47 @@ To create a trusted mobile platform that connects verified freelance nurses with
 
 ## Activity Diagrams
 
-![activity diagram](./comets-app_map.png)
+### Activity Diagrams by User Type
+
+#### Elderly Patient
+
+> As an elderly patient, I want to enter my care needs, such as medication help and mobility support, so I can be matched with a nurse who fits my situation.
+
+![patient-1](./attatchments/patient-1.png)
+
+
+> As an elderly patient, I want to book a visit for a specific date and time with only some taps on the app, so I can schedule care without phone calls or email.
+
+![patient-2](./attatchments/patient-2.png)
+
+
+#### Family Caregivers
+
+> As a family caregiver, I want to share visit details with other approved family members, so everyone stays aligned on schedules and responsibilities.
+
+![caregiver-1](./attatchments/caregiver-1.png)
+
+
+> As a family caregiver, I want to reschedule an upcoming appointment easily, so I can adjust care when plans change.
+
+![caregiver-2](./attatchments/caregiver-2.png)
+
+
+#### Freelance Nurse
+
+> As a freelance nurse, I want to submit my license and identity for verification, so I can be trusted with proof of qualifications, and I can get straight to work.
+
+![nurse-1](./attatchments/nurse-1.png)
+
+> As a freelance nurse, I want to accept or decline requests within a time limit, so patients get quick confirmations and I can control my workload.
+
+![nurse-2](./attatchments/nurse-2.png)
+
+
+### App View
+
+![activity diagram](./attatchments//comets-app_map.png)
+
 
 ## Clickable Prototype
 
