@@ -44,22 +44,6 @@ Problems/Frustrations:
 - Coordinating schedules, payments, and communication through calls and texts feels disorganized and stressful.
 - I worry about scams or unverified caregivers when using random websites or forums, especially when it involves my parent’s safety and medical needs.
 
-### Megan (Administrator):
-
-Goals/needs:
-
-- I want to verify nurse licenses and credentials before they are approved on the platform so that patients can trust that every listed nurse is legitimate and qualified.
-- I want to monitor user feedback, complaints, and ratings so that I can quickly identify unsafe behavior or recurring service issues.
-- I want to have access to activity logs, such as bookings, cancellations, disputes, and payments, so that I can investigate conflicts fairly and transparently.
-- I want tools to suspend or remove nurses or patients who violate platform policies so that the platform maintains safety and professional standards.
-
-Problems/Frustrations:
-
-- If verification is done manually through emails and spreadsheets, it becomes slow and error-prone, especially as the platform grows.
-- It is difficult to detect fake licenses or fraudulent users without a centralized verification system.
-- Negative reviews or disputes can escalate quickly if there is no structured process to investigate and respond.
-- Without clear data dashboards, it is hard to identify patterns such as repeated cancellations, suspicious activity, or low-rated providers.
-
 ### Dr. Martin (NYC Health Commissioner):
 
 Goals/needs:
@@ -112,15 +96,9 @@ To create a trusted mobile platform that connects verified freelance nurses with
 - As a freelance nurse, I want to view a clear summary of care needs before accepting a job, so I can confirm I’m qualified and prepared for the visit.
 - As a freelance nurse, I want to log visit completion notes and tasks performed, so I can document care and support continuity for future visits.
 
-### Platform Administrator
-
-- As a platform administrator, I want to flag suspicious accounts or inconsistent credentials, so I can protect patients and maintain trust in the marketplace.
-- As a platform administrator, I want to easily view user statistics, overall nurse availability, and any other high-level data to monitor app usage and performance.
-
 ## Activity Diagrams
 
 ![activity diagram](./comets-app_map.png)
-
 
 ## Clickable Prototype
 
