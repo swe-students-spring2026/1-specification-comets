@@ -121,6 +121,7 @@ To create a trusted mobile platform that connects verified freelance nurses with
 
 ![activity diagram](./comets-app_map.png)
 
+
 ## Clickable Prototype
 
 [clickable prototype](https://www.figma.com/proto/xAUUImn0WVWn0U7f8BbxP0/comets-wireframes?node-id=1-3&p=f&t=yqeVQJc9HkWrVL39-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3)
