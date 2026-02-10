@@ -62,7 +62,7 @@ Problems/Frustrations:
 
 ## Product Vision Statement
 
-To create a trusted mobile platform that connects verified freelance nurses with patients in need of reliable and flexible care at home.
+To create a trusted mobile platform that connects verified freelance nurses with elderly patients in need of reliable and flexible care at home.
 
 ## User Requirements
 
