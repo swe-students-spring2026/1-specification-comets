@@ -77,6 +77,7 @@ To create a trusted mobile platform that connects verified freelance nurses with
 - As an elderly patient, I want to choose in-home services like wound dressing or vital checks, so I can request the exact type of care I need without confusion.
 - As an elderly patient, I want to be able to write reviews and/or ratings for nurses, so I can provide feedback on my experience.
 - As an elderly patient, I want to be able to choose a freelance nurse at a suitable price, so I can stay within my budget.
+- As an elderly patient, I want to receive reminders before my scheduled visit, so I can prepare and avoid missing the appointment.
 
 ### Family Caregiver
 
@@ -86,6 +87,11 @@ To create a trusted mobile platform that connects verified freelance nurses with
 - As a family caregiver, I want to manage multiple patient profiles in one account, so I can coordinate care for more than one family member easily.
 - As a family caregiver, I want to upload medical notes and care instructions for the nurse to review, so I can ensure the nurse follows the correct routine.
 - As a family caregiver, I want to share visit details with other approved family members, so everyone stays aligned on schedules and responsibilities.
+- As a family caregiver, I want to see a complete history of past visits, so I can track the long-term care progress of my family member.
+- As a family caregiver, I want to receive a digital receipt after each visit, so I can manage expenses and insurance claims.
+- As a family caregiver, I want to reschedule an upcoming appointment easily, so I can adjust care when plans change.
+- As a family caregiver, I want to report a concern or file a complaint directly through the app, so issues can be addressed quickly and properly documented.
+
 
 ### Freelance Nurse
 
@@ -95,6 +101,11 @@ To create a trusted mobile platform that connects verified freelance nurses with
 - As a freelance nurse, I want to accept or decline requests within a time limit, so patients get quick confirmations and I can control my workload.
 - As a freelance nurse, I want to view a clear summary of care needs before accepting a job, so I can confirm I’m qualified and prepared for the visit.
 - As a freelance nurse, I want to log visit completion notes and tasks performed, so I can document care and support continuity for future visits.
+- As a freelance nurse, I want to see a calendar view of all my confirmed appointments, so I can manage my schedule efficiently.
+- As a freelance nurse, I want to view my earnings summary for a selected period, so I can track my income clearly.
+- As a freelance nurse, I want to receive notifications when a patient cancels an appointment, so I can adjust my schedule immediately.
+- As a freelance nurse, I want to rate or review patients after a visit, so I can share feedback about my experience and maintain safety standards.
+
 
 ## Activity Diagrams
 
