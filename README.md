@@ -62,7 +62,7 @@ Problems/Frustrations:
 
 ## Product Vision Statement
 
-To create a trusted mobile platform that connects verified freelance nurses with elderly patients in need of reliable and flexible care.
+To create a trusted mobile platform that connects verified freelance nurses with patients in need of reliable and flexible care at home.
 
 ## User Requirements
 
@@ -92,7 +92,6 @@ To create a trusted mobile platform that connects verified freelance nurses with
 - As a family caregiver, I want to reschedule an upcoming appointment easily, so I can adjust care when plans change.
 - As a family caregiver, I want to report a concern or file a complaint directly through the app, so issues can be addressed quickly and properly documented.
 
-
 ### Freelance Nurse
 
 - As a freelance nurse, I want to submit my license and identity for verification, so I can be trusted with proof of qualifications, and I can get straight to work.
@@ -106,7 +105,6 @@ To create a trusted mobile platform that connects verified freelance nurses with
 - As a freelance nurse, I want to receive notifications when a patient cancels an appointment, so I can adjust my schedule immediately.
 - As a freelance nurse, I want to rate or review patients after a visit, so I can share feedback about my experience and maintain safety standards.
 
-
 ## Activity Diagrams
 
 ### Activity Diagrams by User Type
@@ -117,11 +115,9 @@ To create a trusted mobile platform that connects verified freelance nurses with
 
 ![patient-1](./attatchments/patient-1.png)
 
-
 > As an elderly patient, I want to book a visit for a specific date and time with only some taps on the app, so I can schedule care without phone calls or email.
 
 ![patient-2](./attatchments/patient-2.png)
-
 
 #### Family Caregivers
 
@@ -129,11 +125,9 @@ To create a trusted mobile platform that connects verified freelance nurses with
 
 ![caregiver-1](./attatchments/caregiver-1.png)
 
-
 > As a family caregiver, I want to reschedule an upcoming appointment easily, so I can adjust care when plans change.
 
 ![caregiver-2](./attatchments/caregiver-2.png)
-
 
 #### Freelance Nurse
 
@@ -145,11 +139,9 @@ To create a trusted mobile platform that connects verified freelance nurses with
 
 ![nurse-2](./attatchments/nurse-2.png)
 
-
 ### App View
 
 ![activity diagram](./attatchments//comets-app_map.png)
-
 
 ## Clickable Prototype
 
